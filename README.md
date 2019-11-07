@@ -32,7 +32,7 @@
 ```
 ###### Now Wait for us to review and merge your Pull request after that see your name [here](https://devcindore.github.io/) 
 
-#### Learn the basics form Youtube or any other resources like Progate, [FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-beginners-guide-to-git-github/amp/) etc
+#### Learn the basics from Youtube or any other resources like Progate, [FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-beginners-guide-to-git-github/amp/) etc
 
 
 
