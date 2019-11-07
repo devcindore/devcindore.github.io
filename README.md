@@ -1,5 +1,7 @@
 # This is a webpage from [DevC Indore](https://devcindore.github.io/) showing you about the list of Attendees selected for the **"Beyond Git"** event
 
+![DevC Indore](src/front1.png)
+
 ## Please make sure you do the following task and than fill up this [Google form](https://forms.gle/eqvwtS4QSz4Gee1A9) to confirm your seat
 
 ## Task 1
