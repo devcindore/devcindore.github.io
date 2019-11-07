@@ -11,8 +11,23 @@
 3. Open and edit the index.html file of this forked repo and than copy the below lines of code, edit them with your details, that is, your name, your github username and your profile photo link.
 4. Save them make a commit
 5. And Finally make a Pull request
+```html
+<!-- FOR EXAMPLE = iharshit009 IN PLACE OF 
+                    YOUR_GITHUB_USERNAME in the below line -->
+                  <a
+                    href="https://github.com/YOUR_GITHUB_USERNAME"
+                    class="profile"
+                  >
+                    <!-- FOR EXAMPLE =
+                  https://avatars1.githubusercontent.com/devabhixda?size=200
+                  IN PLACE OF YOUR_IMAGE_LINK in the below line-->
+                    <img src="YOUR_IMAGE_LINK" />
 
-
+                    <!-- FOR EXAMPLE = HARSHIT JAIN 
+                    IN PLACE OF YOUR_FULL_NAME in the below line -->
+                    <span>YOUR_FULL_NAME </span></a
+                  >
+```
 ###### Now Wait for us to review and merge your Pull request after that see your name [here](https://devcindore.github.io/) 
 
 #### Learn the basics form Youtube or any other resources like Progate, [FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-beginners-guide-to-git-github/amp/) etc
@@ -27,5 +42,5 @@ You may refer to this [article](https://medium.com/@ritikjain1272/a-beginners-gu
 
 
 
-For more information related to the event refer [this]()
+For more information related to the event refer [this](https://www.meetup.com/DevCIndore/events/266176584/)
 For any Queries mail us at devcindore@gmail.com
