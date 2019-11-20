@@ -45,4 +45,4 @@ You may refer to this [article](https://medium.com/@ritikjain1272/a-beginners-gu
 
 
 For more information related to the event refer [this](https://www.meetup.com/DevCIndore/events/266176584/) <br/>
-For any Queries mail us at devcindore@gmail.com
+For any Queries [mail us](devcindore@gmail.com)
